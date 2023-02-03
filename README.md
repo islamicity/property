@@ -1,6 +1,6 @@
 Bismillahirrahmaaniirrahiim
 
-masjid.github.io
+property.github.io
 
 ## Open browser :
-https://islamicity.github.io/masjid.github.io/
+https://islamicity.github.io/property.github.io/
